@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>dagre-d3</artifactId>
-    <version>0.3.2</version>
+    <version>0.3.3-SNAPSHOT</version>
     <name>dagre-d3</name>
     <description>WebJar for dagre-d3</description>
     <url>http://webjars.org</url>
@@ -53,7 +53,7 @@
         <url>http://github.com/webjars/dagre-d3</url>
         <connection>scm:git:https://github.com/webjars/dagre-d3.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/dagre-d3.git</developerConnection>
-        <tag>dagre-d3-0.3.2</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <dependencies>
